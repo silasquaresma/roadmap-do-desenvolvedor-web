@@ -1,6 +1,8 @@
 
 
 
+
+
 Caderno de exercícios com git e github usando vscode baseado no curso rápido da Rafaela Balerini.
 
 
@@ -18,4 +20,6 @@ Caderno de exercícios com git e github usando vscode baseado no curso rápido d
 
 
         Comandos clusterizados para praticidade e boas práticas
+
+
 
