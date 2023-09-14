@@ -1,0 +1,21 @@
+
+
+
+Caderno de exercícios com git e github usando vscode baseado no curso rápido da Rafaela Balerini.
+
+
+    Intro
+
+        Oque é git e github?
+            O git
+
+        Comandos principais
+
+
+
+        Testando arquivo
+
+
+
+        Comandos clusterizados para praticidade e boas práticas
+
